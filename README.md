@@ -6,9 +6,9 @@ completion in html files.
 
 ## Requirements
 
-[Neovim](https://github.com/neovim/neovim)
-[emmet-vim](https://github.com/mattn/emmet-vim)
-[nvim-compe](https://github.com/hrsh7th/nvim-compe)
+* [Neovim](https://github.com/neovim/neovim)
+* [emmet-vim](https://github.com/mattn/emmet-vim)
+* [nvim-compe](https://github.com/hrsh7th/nvim-compe)
 
 ## Installation
 
